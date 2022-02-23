@@ -1,0 +1,26 @@
+---
+title: "Severe weather events and their impact on population health in US (1950 - 2011)."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+This analysis focused on data collected in US between 1950 and 2011 and managed by National Oceanic and Atmospheric Administration (NOAA). 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
